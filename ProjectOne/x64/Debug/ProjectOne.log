@@ -1,3 +1,0 @@
-﻿  ProjectOne.cpp
-C:\Users\mturner7\dev\ProjectOne\ProjectOne\ProjectOne.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  ProjectOne.vcxproj -> C:\Users\mturner7\dev\ProjectOne\x64\Debug\ProjectOne.exe
