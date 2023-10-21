@@ -1,0 +1,4 @@
+﻿  ProjectClock.cpp
+C:\Users\mturner7\dev\ProjectClock\ProjectClock\ProjectClock.cpp(9,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mturner7\dev\ProjectClock\ProjectClock\ProjectClock.cpp(85,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ProjectClock.vcxproj -> C:\Users\mturner7\dev\ProjectClock\x64\Debug\ProjectClock.exe
